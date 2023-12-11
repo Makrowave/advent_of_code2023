@@ -1,8 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using System.Runtime.InteropServices;
-
-string line;
+﻿string line;
 int sum = 0;
 char temp = '0';
 bool first = false;
